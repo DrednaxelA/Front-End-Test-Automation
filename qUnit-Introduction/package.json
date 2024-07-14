@@ -1,0 +1,15 @@
+{
+  "name": "qunit-demo-project",
+  "version": "1.0.0",
+  "description": "this is a demo project showcasing qunit's functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "qunit"
+  },
+  "author": "Alexander Dimitrov",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "qunit": "^2.21.0"
+  }
+}
